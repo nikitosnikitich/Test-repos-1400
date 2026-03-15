@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad24a1de4f4683f45ae2ff076ab6600f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textCountOfPlayer: {instanceID: 0}
+  - inputRoomName: {instanceID: 0}
+  - roomName: {instanceID: 0}
+  - transformRoomList: {instanceID: 0}
+  - roomItemPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
